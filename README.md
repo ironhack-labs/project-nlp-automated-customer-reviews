@@ -65,7 +65,7 @@ In order to do this, you should transform all the scores with the following logi
 
 - Explore different machine learning algorithms for text classification, including:
   - Naive Bayes
-  - Logistic Regression
+  - Logistic Regression 
   - Support Vector Machines
   - Random Forest
 - Evaluate each algorithm's performance using cross-validation and grid search for hyperparameter tuning.
